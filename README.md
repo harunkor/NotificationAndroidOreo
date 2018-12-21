@@ -10,3 +10,25 @@ channels from your app should be intrusive or visible at all.
 
 Caution: If you target Android 8.0 (API level 26) and post a notification without specifying a notification channel, 
 the notification does not appear and the system logs an error.
+
+
+
+
+![](https://github.com/harunkor/NotificationAndroidOreo/blob/master/Screenshot_1545433023.png?raw=true)
+
+
+
+
+![](https://github.com/harunkor/NotificationAndroidOreo/blob/master/Screenshot_1545431472.png?raw=true)
+
+
+
+
+![](https://github.com/harunkor/NotificationAndroidOreo/blob/master/Screenshot_1545431528.png?raw=true)
+
+
+
+
+![](https://github.com/harunkor/NotificationAndroidOreo/blob/master/Screenshot_1545431537.png?raw=true)
+
+
